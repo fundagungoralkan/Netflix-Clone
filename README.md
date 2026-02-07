@@ -40,5 +40,5 @@ It is built using HTML and CSS and features a responsive design.
 <strong>Open the <code>index.html</code> file in your browser.</strong>
 </p>
 
+![Netflix Clone Screenshot](netflix.gif)
 
-![](netflix.gif)
